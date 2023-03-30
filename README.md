@@ -1,8 +1,28 @@
 # Python Intermediate Concepts
 
 ### Table of Contents
-1. List (needs revisit)
-2. Tuple
+- [] Lists (needs revisit)
+- [x] Tuples
+- [] Dictonaries
+- [] Sets
+- [] Strings
+- [] Collections
+- [] Itertools
+- [] LamdaTools
+- [] LamdaFunctions
+- [] Exceptions and Errors
+- [] Logging
+- [] JSON
+- [] JSORandom Numbers
+- [] Decorators
+- [] Generators
+- [] Threding vs Multiprocessing
+- [] Multithreding
+- [] Multiprocessing
+- [] Functions arguments
+- [] * Operator
+- [] * Shallow and Deep Copy
+- [] * Context managers
 
 
 
