@@ -13,7 +13,7 @@
 - [ ] Exceptions and Errors
 - [ ] Logging
 - [ ] JSON
-- [ ] JSORandom Numbers
+- [ ] Random Numbers
 - [ ] Decorators
 - [ ] Generators
 - [ ] Threding vs Multiprocessing
@@ -21,8 +21,8 @@
 - [ ] Multiprocessing
 - [ ] Functions arguments
 - [ ] * Operator
-- [ ] * Shallow and Deep Copy
-- [ ] * Context managers
+- [ ] Shallow and Deep Copy
+- [ ] Context managers
 
 
 
