@@ -3,7 +3,7 @@
 ### Table of Contents
 - [ ] Lists (needs revisit)
 - [x] Tuples
-- [ ] Dictonaries
+- [x] Dictonaries
 - [ ] Sets
 - [ ] Strings
 - [ ] Collections
