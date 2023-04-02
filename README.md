@@ -4,7 +4,7 @@
 - [ ] Lists (needs revisit)
 - [x] Tuples
 - [x] Dictonaries
-- [ ] Sets
+- [x] Sets
 - [ ] Strings
 - [ ] Collections
 - [ ] Itertools
