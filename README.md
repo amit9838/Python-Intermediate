@@ -5,7 +5,7 @@
 - [x] Tuples
 - [x] Dictonaries
 - [x] Sets
-- [ ] Strings
+- [x] Strings
 - [ ] Collections
 - [ ] Itertools
 - [ ] LamdaTools
