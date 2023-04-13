@@ -6,10 +6,10 @@
 - [x] Dictonaries
 - [x] Sets
 - [x] Strings
-- [ ] Collections
-- [ ] Itertools
-- [ ] LamdaTools
-- [ ] LamdaFunctions
+- [x] Collections
+- [x] Itertools
+- [x] LamdaTools
+- [x] LamdaFunctions
 - [ ] Exceptions and Errors
 - [ ] Logging
 - [ ] JSON
