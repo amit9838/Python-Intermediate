@@ -12,7 +12,7 @@
 - [x] LamdaFunctions
 - [x] Exceptions and Errors
 - [ ] Logging  (see other tutorials)
-- [ ] JSON
+- [x] JSON
 - [ ] Random Numbers
 - [ ] Decorators
 - [ ] Generators
