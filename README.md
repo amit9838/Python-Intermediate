@@ -10,8 +10,8 @@
 - [x] Itertools
 - [x] LamdaTools
 - [x] LamdaFunctions
-- [ ] Exceptions and Errors
-- [ ] Logging
+- [x] Exceptions and Errors
+- [ ] Logging  (see other tutorials)
 - [ ] JSON
 - [ ] Random Numbers
 - [ ] Decorators
