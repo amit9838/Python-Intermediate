@@ -13,7 +13,7 @@
 - [x] Exceptions and Errors
 - [ ] Logging  (see other tutorials)
 - [x] JSON
-- [ ] Random Numbers
+- [x] Random Numbers
 - [ ] Decorators
 - [ ] Generators
 - [ ] Threding vs Multiprocessing
