@@ -6,6 +6,7 @@
 - [x] Dictonaries
 - [x] Sets
 - [x] Strings
+- [ ] Regex
 - [x] Collections
 - [x] Itertools
 - [x] LamdaTools
