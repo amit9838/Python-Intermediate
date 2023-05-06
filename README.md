@@ -15,7 +15,7 @@
 - [ ] Logging  (see other tutorials)
 - [x] JSON
 - [x] Random Numbers
-- [ ] Decorators
+- [ ] Decorators  (revisit)
 - [ ] Generators
 - [ ] Threding vs Multiprocessing
 - [ ] Multithreding
